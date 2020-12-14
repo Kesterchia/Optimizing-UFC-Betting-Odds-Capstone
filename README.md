@@ -1,6 +1,6 @@
 # UFC-Winner-Predictions
  
-<img src="https://github.com/Kesterchia/Optimizing-UFC-Betting-Odds-Capstone/blob/main/Pictures/Fight-image.jpg?raw=True" width="500" height="500"> 
+<img src="https://github.com/Kesterchia/Optimizing-UFC-Betting-Odds-Capstone/blob/main/Pictures/Fight-image.jpg?raw=True" width="700" height="500"> 
 
 ## About this project:
 Sports betting is a multi-billion dollar industry. UFC fight betting is one of the many kinds of sports betting. In every fight, betting sites assign "odds" to each fighter based on how confident they feel in each fighter. Choosing the wrong betting odds can be devastating to a betting site, losing them a significant amount of money. This project aims to create a model that can predict the win probabilities in UFC fights, and output an optimal set of betting odds that can aid betting sites in choosing the best odds to maximize profit and reduce risk.
